@@ -1,4 +1,7 @@
 # Prediction & Optimisation of Furnace Operations through data analytics & deep learning
+
+[MAIN REPORT LINK](https://medium.com/@mallprakhar05/prediction-optimisation-of-furnace-operations-through-data-analytics-deep-learning-a37945fb4017) 
+
 Study and predication of the Coil pressure ratio at GAIL PATA
 petrochemical Plant with the help of deep learning LSTM techniques
 
